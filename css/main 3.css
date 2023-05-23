@@ -1,0 +1,22 @@
+.width{
+    width: 50px;
+    position: absolute;
+    left: 250px;
+    bottom: 5px;
+}
+.width1{
+    position: absolute;
+    left: 250px;
+    bottom: 5px;
+    width: 50px;
+}
+.width2{
+    position: absolute;
+    left: 250px;
+    bottom: 5px;
+    width: 50px;
+}
+.kil1{
+    margin-left: 135px;
+}
+
